@@ -30,8 +30,10 @@ export default function Page1() {
           Send Me Errand
         </h1>
         <div className="flex" style={{ display: "" }}>
-          <img src={P2} alt="google" className="w-32  md:w-36"/>
-          <img src={P1} alt="apple"  className="w-32 md:w-36 ml-2 md:ml-10 lg:ml-10" />
+          <a href="https://play.google.com/store/apps/details?id=com.sendmeerrand.send_me_errand"><img src={P2} alt="google" className="w-32  md:w-36"/></a>
+          <a href="https://apps.apple.com/gb/app/sendmeerrand/id1626994605">
+            <img src={P1} alt="apple"  className="w-32 md:w-36 ml-2 md:ml-10 lg:ml-10" />
+          </a>
         </div>
       </div>
       <img src={MG} alt="mg"  className="w-88 md:w-64 lg:w-80" />
