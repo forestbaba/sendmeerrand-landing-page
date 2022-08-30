@@ -14,7 +14,7 @@ export default function Footer() {
           <h2 className='font-bold py-5'>Privacy</h2>
 
             <p><a href='https://api.sendmeerrandsng.com/privacy'>Privacy policy</a></p>
-            <p ><a href='https://app.termly.io/notify/f922ff5a-4d7d-4fbd-b2b3-612ef3368eb3' target="_blank" className='font-light'>Consent to deactivate account</a></p>
+            <p ><a href='https://app.termly.io/notify/f922ff5a-4d7d-4fbd-b2b3-612ef3368eb3' target="_blank" className='font-light'>Consent to delete account</a></p>
 
           </div>
           <div>
